@@ -1405,7 +1405,7 @@ section > .more.wk .wkn{margin-left:auto; display:inline-flex; align-items:cente
 <header>
   <div class="appbar">
     <div class="wrap top">
-      <a class="brand" href="./" title="뉴스레이다 — 처음 화면으로"><svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="15" fill="currentColor"/><circle cx="16" cy="16" r="10" fill="none" stroke="#fff" stroke-opacity=".45" stroke-width="1.5"/><circle cx="16" cy="16" r="5" fill="none" stroke="#fff" stroke-opacity=".45" stroke-width="1.5"/><path d="M16 16 L16 3 A13 13 0 0 1 27.3 9.5 Z" fill="#fff" fill-opacity=".8"/><circle cx="22" cy="11" r="2" fill="#fff"/></svg><span class="bt">뉴스레이다</span><span class="who">이승훈<span class="whob"> (예산처·농식품부)</span></span></a>
+      <a class="brand" href="./" title="뉴스레이다 — 처음 화면으로"><svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="15" fill="currentColor"/><circle cx="16" cy="16" r="10" fill="none" stroke="#fff" stroke-opacity=".45" stroke-width="1.5"/><circle cx="16" cy="16" r="5" fill="none" stroke="#fff" stroke-opacity=".45" stroke-width="1.5"/><path d="M16 16 L16 3 A13 13 0 0 1 27.3 9.5 Z" fill="#fff" fill-opacity=".8"/><circle cx="22" cy="11" r="2" fill="#fff"/></svg><span class="bt">뉴스레이다</span><span class="who">이승훈<span class="whob"> (농식품부)</span></span></a>
       <div class="tblk">
         <div class="tline"><h1 id="title">보고 준비</h1><span class="ttags" id="ttags"></span></div>
         <span class="fresh" id="freshbox"><span id="fresh">불러오는 중…</span><button type="button" id="reload" class="ic" aria-label="새로고침" title="새로고침">↻</button><button type="button" id="sync" class="sync off" style="display:none" title="체크·‘여기까지 확인’을 다른 기기와 맞추기"><span class="lg">기기 </span>연동</button></span>
